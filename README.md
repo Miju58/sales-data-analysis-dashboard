@@ -14,7 +14,7 @@ This project analyzes sales data using Power BI and Excel.
 - Monthly Sales Trend
 - Interactive Filters
 
-## Key Insights
+## Analysis Summary
 - Technology category generated highest sales.
 - West region contributed maximum sales.
 - Monthly sales trends were analyzed.
